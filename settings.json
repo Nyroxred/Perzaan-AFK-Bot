@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "PerzaanLive",
+    "username": "goofyahnga",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "NyroxSMPgg.aternos.me:45976",
+    "ip": "NyroxSMPgg.aternos.me",
     "port": 45976,
-    "version": "1.21.1"
+    "version": "26.1.2"
   },
   "position": {
     "enabled": true,
