@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "example.aternos.me",
-    "port": 92591,
+    "ip": "NyroxSMPgg.aternos.me:45976",
+    "port": 45976,
     "version": "1.21.1"
   },
   "position": {
@@ -30,8 +30,8 @@
       "repeat": true,
       "repeat-delay": 500,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Perzaan Gaming!",
+        "I'm a regular player and tiktoker",
+        "follow NyroxRedTT on tiktok!",
         "I like to play Minecraft!"
       ]
     },
